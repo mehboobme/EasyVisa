@@ -5,7 +5,7 @@
 
 ### Project delivered in 25 October 2024
 ### Repository includes two files:
-* HTML file with Python code written for data analysis and model building
+* HTML & ipynb file with Python code written for data analysis and model building
 * CSV file includes data imported into notebook
    
 ### Problem Statement: Analyze the data of visa applicants, build a predictive model to facilitate the process of approvals, and, based on important factors that significantly influence the status, recommend a suitable profile for the applicants for whom the visa should be certified or denied.

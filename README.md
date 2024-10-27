@@ -1,7 +1,7 @@
-Ensemble-Learning
-EasyVisa Project
+# Ensemble-Learning
+# EasyVisa Project
 
-Project completed as part of Great Learning's Postgraduate Program - Data Science and Business Analytics
+## Project completed as part of Great Learning's Postgraduate Program - Data Science and Business Analytics
 Project delivered in 25 October 2024
 Repository includes two files:
 HTML file with Python code written for data analysis and model building
